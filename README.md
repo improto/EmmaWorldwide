@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Manuel
-- 👀 I’m interested in Android and Computer Programming
+- 👋 Hi, I’m Emmanuel
+- 👀 I’m interested in Android and React
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...official.emmanuel001@gmail.com
