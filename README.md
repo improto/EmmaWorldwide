@@ -1,7 +1,16 @@
 - 👋 Hi, I’m Emmanuel
-- 👀 I’m interested in Android and React
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on any project
+    I'm a Junior Developer, Tech Enthusiast
+    
+- 🌱 Languages
+      C, C++, Python
+      React-native, Kotlin
+      Web Script Languages
+     
+- 💞️ I also Love 
+      Reading,
+      Cycling,
+      Intellectual Puzzles,
+    And I never miss F1 Weekends
 - 📫 How to reach me ...official.emmanuel001@gmail.com
 
 <!---
